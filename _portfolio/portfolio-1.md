@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Applications of Antibiotics in Antibiotic-Resistant Microbes"
+excerpt: "Microbes are all over, and antibiotics such as penicillin have been the go-to for the past century. But what happens when these microbes become resistant to standard treatments? Due to overuse of beta-lactams, many common bacteria are now fully resistant to them. How do we continue to fight bacteria when treatments stop working? 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
